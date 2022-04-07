@@ -10,11 +10,11 @@ A lo largo del tiempo hemos visto la evolucion entre el hombre y la tecnologia.
 Y para bien, en el mundo de un desarrollador se crean valores y grandes espectativas como lo son:
 
 
--Honestidad.
--Puntualidad.
--Estabilidad Economica.
--Respeto.
--Libertad de Expresion.
+- Honestidad.
+- Puntualidad.
+- Estabilidad Economica.
+- Respeto.
+- Libertad de Expresion.
 
 
 
