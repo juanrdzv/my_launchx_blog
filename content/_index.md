@@ -9,9 +9,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 
 Proyecto Backend:
-  -Aprender, estudiar y aplicar los conocimientos obtenidos a lo largo de la mision.
-  -Mejorar mis habilidades con Git & Github.
-  -Comprender codigo en backend.
-  -Ser una persona con mas capacidades laborales.
+  - Aprender, estudiar y aplicar los conocimientos obtenidos a lo largo de la mision.
+  - Mejorar mis habilidades con Git & Github.
+  - Comprender codigo en backend.
+  - Ser una persona con mas capacidades laborales.
 
 🚀
